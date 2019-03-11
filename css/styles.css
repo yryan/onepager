@@ -1,13 +1,62 @@
 body{
-	font-family: "Helvetica Nue";
+	font-family: "Helvetica";
 	font-size: 1rem;
 	word-wrap: 
+	
 }
 h1,h2,h3 {
 	margin: 0;
 	padding: 0;
+	color: #000;
 }
 p{color: #000
 }
 img {display; block}
-a{}
+
+#container {
+	width: 1000px;
+	height: 1000px;
+	/*margin:10px 15px 10px 15px:*/
+}
+h1 {color: #ffffff;
+	font-size: 64px; 
+	text-align: center;
+	padding-top: 50px;
+}
+div {margin: 40px 20px 0px 22px; }	
+h2 {padding: 0px 0px 25px 0px;}
+
+.header{ margin-left: 60px;
+		margin-right: 15px;
+		margin-bottom: 0px: 
+	  }
+nav  {display: inline-block;
+	  list-style-type:0;
+	  text-decoration:none;
+			
+			 }
+	  
+.banner {height:250px;
+		 width: 850px;
+		 background-color: #3399cc;
+		 margin-top: 25px;
+		 margin-right: 22px;
+		 margin-left: 22px
+		  }
+
+p .banner {font-size: 22px;
+		  padding-top:   15px;
+		  padding-right:  30px;
+		  padding-bottom:  20px;
+		  padding-left:  20px;
+		  
+		}
+
+.blog {	 margin-top: 25px;
+		 margin-right: 22px;
+		 margin-left: 22px
+		  }
+p .blog {text-align: left; }
+
+ h2 .service{padding-top: 35px;
+				margin-left:0;}
